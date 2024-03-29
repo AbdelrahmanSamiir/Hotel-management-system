@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d8d41ba-4fc2-41d7-bd46-a9c621bd6643" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Data/DataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Data/DataBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Model/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Guest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Model/Guest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Model/Room.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Model/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Service/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Service/EmployeeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Service/GuestBillingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Service/GuestBillingService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Service/GuestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Service/GuestService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Service/RoomService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Service/RoomService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Service/ServiceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Service/ServiceService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QfelQUukgY5aBmvTLXsJBWU4Ku" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/abdel/Downloads/new laptop/aast/Programming/projects/The_Continental_Hotel Final Project"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="The_Continental_Hotel Final Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="The_Continental_Hotel Final Project" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d8d41ba-4fc2-41d7-bd46-a9c621bd6643" name="Changes" comment="" />
+      <created>1685749220936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685749220936</updated>
+    </task>
+    <servers />
+  </component>
+</project>
